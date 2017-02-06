@@ -1,6 +1,6 @@
 #=======================================================#
-#   AUTHOR :- RAVI SHANKAR KUMAR	                      #
-#   FROM :- SITAMARHI(BIHAR) , 843317			              #
+#   AUTHOR :- RAVI SHANKAR KUMAR	                #
+#   FROM :- SITAMARHI(BIHAR) , 843317	                #
 #   NIT JALANDHAR, CSE PRE-FINAL YEAR                   #
 #=======================================================#
 def part (arr,start,last):
