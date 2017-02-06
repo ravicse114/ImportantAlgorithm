@@ -11,3 +11,5 @@
 <b>6.COUNTING SORT</b></br>
 <b>7.RADIX SORT</b></br>
 <b>8.BUBBLE SORT</b></br>
+# CONVERSIONS</br>
+<b>1.nth base number to mth base number conversions</b></br>
