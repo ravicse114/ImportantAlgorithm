@@ -14,3 +14,5 @@
 <b>8.BUBBLE SORT</b></br>
 # CONVERSIONS</br>
 <b>1.nth base number to mth base number conversions</b></br>
+# MATRIX EXPONENTIATION PROBLEM</br>
+<b>1.Number appended to itself and taking its modulo</b></br>
